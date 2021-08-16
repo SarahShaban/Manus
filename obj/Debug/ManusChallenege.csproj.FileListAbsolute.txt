@@ -1,0 +1,7 @@
+C:\Users\sarah\source\repos\ManusChallenege\bin\Debug\ManusChallenege.exe.config
+C:\Users\sarah\source\repos\ManusChallenege\bin\Debug\ManusChallenege.exe
+C:\Users\sarah\source\repos\ManusChallenege\bin\Debug\ManusChallenege.pdb
+C:\Users\sarah\source\repos\ManusChallenege\obj\Debug\ManusChallenege.csprojAssemblyReference.cache
+C:\Users\sarah\source\repos\ManusChallenege\obj\Debug\ManusChallenege.csproj.CoreCompileInputs.cache
+C:\Users\sarah\source\repos\ManusChallenege\obj\Debug\ManusChallenege.exe
+C:\Users\sarah\source\repos\ManusChallenege\obj\Debug\ManusChallenege.pdb
